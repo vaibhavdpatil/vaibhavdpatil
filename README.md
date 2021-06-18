@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavdpatil
 - 👀 I’m interested in Python ,HTML,CSS, JAVASCRIPT,REACTJS,JAVA
-- 🌱 I’m currently learning ReactJs.
+
 - Project Link. https://vaibhavdpatil.github.io/coursera/Module5/index.html
 
 
